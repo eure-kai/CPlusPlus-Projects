@@ -1,5 +1,4 @@
-
-#include <DynamicArray.h>
+#include "DynamicArray.h"
 #include <iostream>
 
   DynamicArray::DynamicArray(int s, int m) :
